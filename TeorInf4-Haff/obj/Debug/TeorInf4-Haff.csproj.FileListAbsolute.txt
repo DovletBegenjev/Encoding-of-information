@@ -1,0 +1,7 @@
+C:\Users\dovle\source\repos\TeorInf4-Haff\TeorInf4-Haff\bin\Debug\TeorInf4-Haff.exe.config
+C:\Users\dovle\source\repos\TeorInf4-Haff\TeorInf4-Haff\bin\Debug\TeorInf4-Haff.exe
+C:\Users\dovle\source\repos\TeorInf4-Haff\TeorInf4-Haff\bin\Debug\TeorInf4-Haff.pdb
+C:\Users\dovle\source\repos\TeorInf4-Haff\TeorInf4-Haff\obj\Debug\TeorInf4-Haff.csprojAssemblyReference.cache
+C:\Users\dovle\source\repos\TeorInf4-Haff\TeorInf4-Haff\obj\Debug\TeorInf4-Haff.csproj.CoreCompileInputs.cache
+C:\Users\dovle\source\repos\TeorInf4-Haff\TeorInf4-Haff\obj\Debug\TeorInf4-Haff.exe
+C:\Users\dovle\source\repos\TeorInf4-Haff\TeorInf4-Haff\obj\Debug\TeorInf4-Haff.pdb
