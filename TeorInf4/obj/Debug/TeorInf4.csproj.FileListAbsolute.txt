@@ -1,0 +1,7 @@
+C:\Users\dovle\source\repos\TeorInf4\TeorInf4\bin\Debug\TeorInf4.exe.config
+C:\Users\dovle\source\repos\TeorInf4\TeorInf4\bin\Debug\TeorInf4.exe
+C:\Users\dovle\source\repos\TeorInf4\TeorInf4\bin\Debug\TeorInf4.pdb
+C:\Users\dovle\source\repos\TeorInf4\TeorInf4\obj\Debug\TeorInf4.csprojAssemblyReference.cache
+C:\Users\dovle\source\repos\TeorInf4\TeorInf4\obj\Debug\TeorInf4.csproj.CoreCompileInputs.cache
+C:\Users\dovle\source\repos\TeorInf4\TeorInf4\obj\Debug\TeorInf4.exe
+C:\Users\dovle\source\repos\TeorInf4\TeorInf4\obj\Debug\TeorInf4.pdb
